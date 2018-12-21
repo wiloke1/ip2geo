@@ -19,9 +19,6 @@ var schema graphql.Schema
 
 func init() {
 	err := godotenv.Load()
-	if err != nil {
-		log.Fatal("Error loading .env file")
-	}
 
 	apiKey, ok := os.LookupEnv("FIXER_API_KEY")
 
