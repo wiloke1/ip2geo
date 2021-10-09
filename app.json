@@ -1,0 +1,7 @@
+{
+  "name": "ip2geo",
+  "description": "A simple public IP address API.",
+  "repository": "https://github.com/wiloke1/geo-ip-api",
+  "logo": "https://www.ipify.org/static/images/globe.png",
+  "keywords": ["geo", "ip", "address", "api"]
+}
